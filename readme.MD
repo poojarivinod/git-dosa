@@ -3,3 +3,6 @@
 ## Plain Dosa
 * Dosa Batter
 * light oil
+
+## karam-dosa
+* Dosa Batter
