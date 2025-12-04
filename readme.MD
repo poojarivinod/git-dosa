@@ -17,3 +17,7 @@
 * ghee
 * kaju paste
 * paneer
+
+## Masala dosa
+* Dosa batter
+* Masala and curry
