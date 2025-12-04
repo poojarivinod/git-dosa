@@ -11,3 +11,6 @@
 ## Egg dosa
 * Dosa Batter
 * 1/2 eggs, karam and oil
+
+## paneer dosa
+* Dosa Batter
