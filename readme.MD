@@ -14,3 +14,6 @@
 
 ## paneer dosa
 * Dosa Batter
+* ghee
+* kaju paste
+* paneer
