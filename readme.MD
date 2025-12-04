@@ -18,3 +18,4 @@
 * kaju paste
 * paneer
 * mysore masala
+* onions and tomato
